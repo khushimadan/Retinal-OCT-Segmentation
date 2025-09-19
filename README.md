@@ -5,6 +5,8 @@
 This project performs **retinal OCT (Optical Coherence Tomography) image segmentation** using the **Duke OCT dataset**.
 We focus on two conditions: **Normal** and **Age-related Macular Degeneration (AMD)**.
 
+Dataset available @ https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm
+
 Methods implemented:
 
 * **Mask Generation** – create ground-truth masks from `.mat` files
