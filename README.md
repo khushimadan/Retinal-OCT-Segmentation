@@ -70,3 +70,15 @@ They report **Dice, IoU, Precision, and Recall** for each experiment on the test
 | Shallow CNN + GC  | Normal  | 0.7505      | 0.6385     | 0.7763    | 0.7586 |
 | ResNet34 + GC     | AMD     | 0.9238      | 0.8792     | 0.9257    | 0.9235 |
 | ResNet34 + GC     | Normal  | 0.9149      | 0.8683     | 0.9101    | 0.9232 |
+
+ResNet34 + Graph Cut on AMD Dataset
+
+
+<img width="1103" height="303" alt="image" src="https://github.com/user-attachments/assets/8eb22e09-a4e1-453d-a4ee-70a19093b976" />
+
+
+Shallow CNN + Graph Cut on AMD Dataset
+
+<img width="1111" height="311" alt="image" src="https://github.com/user-attachments/assets/f807931d-521f-4b58-910b-d08b36be02ed" />
+
+
